@@ -9,7 +9,7 @@ The primary objective of this project was to leverage javascript as the sole mea
 Rather than pushing my limits, the aim of this project was to revisit and reinforce my prior knowledge acquired nearly two years ago. While it is crucial to acquire new skills, it is equally important not to overlook the fundamentals.
 
 ## Tech Stack
-<a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="css3"/> </a>
+<a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=8000ff" alt="html5"/> </a> 
 <a href="https://www.w3schools.com/css/"> <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=8000ff" alt="css3"/> </a>
 
