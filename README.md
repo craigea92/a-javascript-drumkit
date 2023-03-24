@@ -23,3 +23,5 @@ open index.html
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/82875984/218523986-a5af2266-94bf-421a-ab71-e178f5c768c2.png)
 
+## Document.querySelector()
+The Document method querySelector() returns the first Element within the document that matches the specified selector, or group of selectors. If no matches are found, null is returned.
